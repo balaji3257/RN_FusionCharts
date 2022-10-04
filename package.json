@@ -9,7 +9,7 @@
     "build:assets": "fc-build-assets --fc-template ./assets/fusioncharts-tpl.html --fc-library ./assets/fusioncharts"
   },
   "dependencies": {
-    "expo": "^33.0.0",
+    "expo": "^46.0.14",
     "fusioncharts": "^3.13.5-sr.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
